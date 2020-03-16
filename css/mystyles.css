@@ -1,4 +1,13 @@
 @charset "UTF-8";
+
 .container {
-	background-color:#EAECEE
+	background-color:#EAECEE;
 }
+body {
+	background-color: black;
+	color: black;
+}
+.meadow-background {
+	background-color: #5E5E5E
+}
+
